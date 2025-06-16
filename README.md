@@ -1,2 +1,2 @@
 # Memory-Game
-This is a fun and interactive Memory Card Game built using HTML, CSS, and JavaScript.
+This is a fun and interactive Memory Card Game built using HTML, CSS, and JavaScript. The game features emoji cards that are shuffled and laid out face down. Players flip two cards at a time to find matching pairs. It demonstrates JavaScript logic, event handling, DOM manipulation, and basic state management. The game includes a simple win condition and resets automatically for replay.
